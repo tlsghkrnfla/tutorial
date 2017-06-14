@@ -1,2 +1,0 @@
-# tutorial
-git tutorial
